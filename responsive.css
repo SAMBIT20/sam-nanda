@@ -1,0 +1,40 @@
+@media only screen and (max-width: 600px) {
+  #hero-section {
+    height: 100vh;
+  }
+  nav {
+    display: none;
+  }
+  .hero-container {
+    margin-top: 0px;
+  }
+  .hero-left-content {
+    margin-top: 02.5rem;
+  }
+  .hero-right-content {
+    margin-left: 20px;
+  }
+  .hero-right-content img {
+    width: 25rem;
+  }
+  #about {
+    height: 100vh;
+  }
+  .about-container {
+    height: 100vh;
+  }
+  #skills {
+    margin-top: 25rem;
+  }
+  .about-right {
+    margin-left: 10px;
+    margin-top: 0.5rem;
+  }
+  .lotti-img {
+    width: 400px !important;
+    height: auto !important;
+  }
+  .skill-right {
+    margin-top: 10px;
+  }
+}
